@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+#fname, #lname, #Email{
+ color: Red;
+}
+#Submit{
+ color: red;
+}
+
